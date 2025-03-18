@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://chatbot-backend-aivs.onrender.com/:path*",
+      "permanent": false
+    }
+  ]
+}
